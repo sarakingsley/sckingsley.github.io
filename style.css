@@ -1,7 +1,7 @@
 html {
    background-color: #f5fffa;
    padding: 50px 0;
-   font-family: 'Lato', sans-serif;
+   font-family: 'Lato';
    font-style: normal;
    font-weight: 400;
 }
@@ -9,7 +9,7 @@ html {
 head {
    background-color: #f5fffa;
    padding: 50px 0;
-   font-family: 'Lato', sans-serif;
+   font-family: 'Lato';
    font-style: normal;
    font-weight: 400;
 }
@@ -17,17 +17,17 @@ head {
 body {
    background-color: #f5fffa;
    padding: 50px 0;
-   font-family: 'Lato', sans-serif;
+   font-family: 'Lato';
    font-style: normal;
    font-weight: 400;
 }
 
 h1 {
    color: #3b3b3b;
-   font-family: 'Lato', sans-serif;
+   font-family: 'Lato';
 }
 
 p  {
    color: #3b3b3b;
-   font-family: 'Lato', sans-serif;
+   font-family: 'Lato';
 }
