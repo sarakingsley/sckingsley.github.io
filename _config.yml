@@ -1,0 +1,17 @@
+# Site settings
+title: Sara Kingsley
+email: skingsley@umass.edu
+url: "https://sarackingsley.net" 
+twitter_username: sarackingsley
+github_username:  sckingsley
+excerpt_separator: <!--summary-->
+comments: true
+
+# Build settings
+markdown: kramdown
+paginate: 5
+
+gems:
+- jekyll-lunr-js-search
+- jekyll-paginate
+- jekyll-mentions
