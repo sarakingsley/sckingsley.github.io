@@ -1,8 +1,17 @@
 html {
- background-color: #f5fffa;
+   background-color: #f5fffa;
    padding: 50px 0;
    font-size: 13px;
-   font-family: "Lato";
+   font-family: Lato;
+   font-style: normal;
+   font-weight: 400;
+}
+
+head {
+   background-color: #f5fffa;
+   padding: 50px 0;
+   font-size: 13px;
+   font-family: Lato;
    font-style: normal;
    font-weight: 400;
 }
@@ -11,7 +20,7 @@ body {
    background-color: #f5fffa;
    padding: 50px 0;
    font-size: 13px;
-   font-family: "Lato";
+   font-family: Lato;
    font-style: normal;
    font-weight: 400;
 }
