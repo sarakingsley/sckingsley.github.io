@@ -1,33 +1,30 @@
 html {
    background-color: #f5fffa;
    padding: 50px 0;
-   font-family: 'Lato';
-   font-style: normal;
+   font-family: Lato;
    font-weight: 400;
 }
 
 head {
    background-color: #f5fffa;
    padding: 50px 0;
-   font-family: 'Lato';
-   font-style: normal;
+   font-family: Lato;
    font-weight: 400;
 }
 
 body {
    background-color: #f5fffa;
    padding: 50px 0;
-   font-family: 'Lato';
-   font-style: normal;
+   font-family: Lato;
    font-weight: 400;
 }
 
 h1 {
    color: #3b3b3b;
-   font-family: 'Lato';
+   font-family: Lato;
 }
 
 p  {
    color: #3b3b3b;
-   font-family: 'Lato';
+   font-family: Lato;
 }
