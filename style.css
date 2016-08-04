@@ -1,35 +1,35 @@
 html {
    background-color: #f5fffa;
    padding: 50px 0;
-   font-family: Georgia, sans-serif;
+   font-family: 'Trebuchet MS';
    font-weight: 400;
 }
 
 head {
    background-color: #f5fffa;
    padding: 50px 0;
-   font-family: Georgia, sans-serif;
+   font-family: 'Trebuchet MS';
    font-weight: 400;
 }
 
 body {
    background-color: #f5fffa;
    padding: 50px 0;
-   font-family: Georgia, sans-serif;
+   font-family: 'Trebuchet MS';
    font-weight: 400;
 }
 
 h1 {
    font-color: #3b3b3b;
-   font-family: Georgia, sans-serif;
+   font-family: 'Trebuchet MS';
 }
 
 p  {
    font-color: #3b3b3b;
-   font-family: Georgia, sans-serif;
+   font-family: 'Trebuchet MS';
 }
 
 footer {
    font-size: 9px;
-   font-samily: Georgia, sans-serif;
+   font-family: 'Trebuchet MS';
 }
