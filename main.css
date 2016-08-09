@@ -1,18 +1,16 @@
 html {
-   font-color: blue;
-   
 }
 
 body {
-   
+   background-color: #ffffff;
 }
 
 p {
-   
 }
+
 .main {
    font-family: 'Trebuchet MS', Helvetica, sans-serif;
-   color: #2e69a3;
+   font-color: #2e69a3;
    font-size: 2rem;
-   background-color: white;
+   background-color: #ffffff;
 }
