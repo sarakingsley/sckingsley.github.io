@@ -11,7 +11,6 @@ main {
   line-height: 20px;
   color: black;
   back-ground color: #D7D3C8;
-  background-image: url("http://static.simpledesktops.com/uploads/desktops/2011/04/20/wallpaper_turtle_tomreinert.png.625x385_q100.png");
 }
 
 header {
@@ -33,7 +32,7 @@ body {
   font-size: 18px;
   line-height: 20px;
   color: black;
-  back-ground color: #D7D3C8; 
+  background color: #D7D3C8; 
 }
 
 p {
