@@ -2,7 +2,7 @@ head {
   font-family: 'Oswald', sans-serif;
   font-size: 24px;
   color: black;
-  back-ground color: #D7D3C8;
+  background: white;
 }
 
 main {
@@ -31,7 +31,7 @@ h1 {
   font-family: 'Oswald', sans-serif;
   font-size: 24px;
   color: black;
-  back-ground color: #ffffff;
+  background color: #ffffff;
 }
 
 body {
