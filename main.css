@@ -9,11 +9,11 @@ head {
   back-ground color: #ffffff;
 }
 
-body {
+main {
   font-family: 'Noto Sans', sans-serif;
   font-size: 18px;
   line-height: 20px;
-  color: Blue;
+  color: black;
   back-ground color: #D4DDE4;
 }
 
