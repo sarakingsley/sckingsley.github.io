@@ -11,6 +11,9 @@ main {
   line-height: 20px;
   color: black;
   back-ground color: #D7D3C8;
+  body { 
+  background: #00ff00 url("http://25.media.tumblr.com/tumblr_m2ucyh7USZ1rsxgl4o1_500.jpg") repeat fixed center; 
+}
 }
 
 header {
