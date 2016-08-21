@@ -6,17 +6,12 @@ body {
    line-height: 20px;
    background-color: #ffffff;
 }
-
-.main {
-   font-family: 'Trebuchet MS', Helvetica, sans-serif;
-   font-color: #00539F;
-   font-size: 24px;
-   line-height: 20px;
-   background-color: #ffffff;
+nav {
+   
 }
 
 ul {
-    list-style-type: none;
+   list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -43,6 +38,16 @@ li a:hover {
 .active {
     background-color: #4CAF50;
 }
+
+}
+.main {
+   font-family: 'Trebuchet MS', Helvetica, sans-serif;
+   font-color: #00539F;
+   font-size: 24px;
+   line-height: 20px;
+   background-color: #ffffff;
+}
+
 
 .large {
   font-size: 72px;
