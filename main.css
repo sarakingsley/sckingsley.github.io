@@ -24,6 +24,7 @@ body {
     background-color: white;
     border-bottom-width: medium;
     border-bottom-color: white;
+    align-content: center;
 }
 
 .outer {
