@@ -1,13 +1,19 @@
+head {
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 1rem;
+  color: blue;
+  back-ground color: #ffffff;
+}
 
 body {
-   font-family: 'Trebuchet MS', Helvetica, sans-serif;
-   font-color: #00539F;
-   font-size: 24px;
-   line-height: 20px;
-   background-color: #ffffff;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 1rem;
+  color: #0095DD;
+  back-ground color: #D4DDE4;
 }
+
 nav {
-   
+  
 }
 
 ul {
@@ -37,45 +43,5 @@ li a:hover {
 
 .active {
     background-color: #4CAF50;
-}
-
-}
-.main {
-   font-family: 'Trebuchet MS', Helvetica, sans-serif;
-   font-color: #00539F;
-   font-size: 24px;
-   line-height: 20px;
-   background-color: #ffffff;
-}
-
-
-.large {
-  font-size: 72px;
-  letter-spacing: -3px;
-  line-height: 100%;
-}
-h1 {
-  font-size: 48px;
-  letter-spacing: -2px;
-  line-height: 100%;
-}
-h2 {
-  font-size: 32px;
-  letter-spacing: -1px;
-  line-height: 100%;
-}
-h3 {
-  font-size: 28px;
-  letter-spacing: -0.5px;
-  line-height: 100%;
-}
-h4 {
-  font-size: 24px;
-  letter-spacing: -0.25px;
-  line-height: 100%;
-}
-.small, small {
-  font-size: 12px;
-  line-height: 100%;
 }
 
