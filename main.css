@@ -18,8 +18,9 @@ body {
 
 .header {
     font-family: 'Oswald', sans-serif;
-    font-size: 24px;
+    font-size: 26px;
     color: black;
+    font-stretch: expanded;
     background-color: white;
     border-bottom-width: medium;
     border-bottom-color: white;
