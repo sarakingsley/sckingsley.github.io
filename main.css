@@ -9,7 +9,7 @@ main {
   font-family: 'Noto Sans', sans-serif;
   font-size: 18px;
   line-height: 20px;
-  color: #6A7B86;
+  color: black;
   back-ground color: #D7D3C8;
 }
 
@@ -36,8 +36,13 @@ body {
 }
 
 p {
-  
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  color: black;
+  back-ground color: #D7D3C8; 
 }
+
 ul {
    list-style-type: none;
     margin: 0;
