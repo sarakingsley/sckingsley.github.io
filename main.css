@@ -16,15 +16,13 @@ body {
     padding: 1em;
 }
 
-.header {
-    font-family: 'Oswald', sans-serif;
-    font-size: 26px;
+section {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    line-height: 10px;
     color: black;
-    font-stretch: expanded;
     background-color: white;
-    border-bottom-width: medium;
-    border-bottom-color: white;
-    align-content: center;
+    padding: 1em;
 }
 
 .outer {
@@ -39,9 +37,20 @@ body {
   background-color: white;
 }
 
+.header {
+    font-family: 'Oswald', sans-serif;
+    font-size: 26px;
+    color: black;
+    font-stretch: expanded;
+    background-color: white;
+    border-bottom-width: medium;
+    border-bottom-color: white;
+    align-center: center;
+}
+
 .blurb {
     font-family: 'Noto Sans', sans-serif;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 20px;
     color: black;
     background-color: white;
