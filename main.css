@@ -1,84 +1,47 @@
 head {
-  font-family: 'Oswald', sans-serif;
-  font-size: 24px;
-  color: black;
-  background: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    color: black;
+    background: white;
 }
 
-main {
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 18px;
-  line-height: 20px;
-  color: black;
-  background color: white;
-  background: white; 
-}
-
-body { 
-  border: 5px solid white;
-  background color: white; 
-}
-
-
-header {
-  font-family: 'Oswald', sans-serif;
-  font-size: 24px;
-  color: black;
-  background-color: #D7D3C8;
-}
-
-h1 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 24px;
-  color: black;
-  background-color: #ffffff;
-}
 
 body {
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 18px;
-  line-height: 20px;
-  color: black;
-  background-color: white; 
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    color: black;
+    background-color: white;
+    background: white;
 }
 
-p {
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 18px;
-  line-height: 20px;
-  color: black;
-  background-color: white; 
+
+
+section {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    color: black;
+    background-color: white;
 }
 
-ul {
-   list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
+
+
+.header {
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    color: black;
+    background-color: #D7D3C8;
 }
 
-li {
-    float: left;
-}
 
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+.blurb {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    color: black;
+    background-color: white;
 }
-
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-    background-color: #111;
-}
-
-.active {
-    background-color: #4CAF50;
-}
-
 
 
 
