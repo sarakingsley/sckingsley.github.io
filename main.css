@@ -13,6 +13,13 @@ main {
   back-ground color: #D7D3C8;
 }
 
+header {
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+  color: black;
+  back-ground color: #D7D3C8;
+}
+
 h1 {
   font-family: 'Oswald', sans-serif;
   font-size: 24px;
@@ -20,6 +27,17 @@ h1 {
   back-ground color: #ffffff;
 }
 
+body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  color: black;
+  back-ground color: #D7D3C8; 
+}
+
+p {
+  
+}
 ul {
    list-style-type: none;
     margin: 0;
