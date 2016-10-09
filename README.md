@@ -1,2 +1,2 @@
 # sckingsley.github.io
-jekyll blog
+personal website etc.
