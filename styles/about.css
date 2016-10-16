@@ -1,0 +1,95 @@
+ul#two {
+  list-style-type: circle;
+}
+
+html#about {
+  padding-left: 0.5em;
+  padding-right: 1em;
+  padding-top: 2em;
+  padding-bottom: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: inherit;
+}
+
+nav#aboutmenu {
+  font-family: inherit;
+  text-align: center;
+  padding: 0;  
+  margin: auto;
+  margin-bottom: auto;
+  align-content: stretch;
+}
+
+ul#aboutnavul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+}
+
+li#aboutnavli {
+  float: left;
+}
+
+li#aboutnavli a {
+  display: table;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li#aboutnavli a:hover {
+  background-color: slateblue;
+}
+  .active {
+    background-color: #4CAF50;
+  }
+
+body#aboutbody {
+  font-family: "Open Sans", sans-serif;
+  font-kerning: auto;
+  padding: 0;
+  margin: auto;
+  margin-top: auto;
+  shape-margin: auto;
+}
+
+main#aboutmain {
+  font-family: inherit;
+  font-size: 16px;
+  text-align: left;
+  text-align-last: left;
+  padding: 0.5em; 
+  margin: auto;
+}
+
+p#aboutp1 {
+  font-family: "Open Sans", sans-serif;
+  padding-left: 1em;
+  text-align: left;
+}
+
+h1#abouth1 {
+  font-family: Noto+Sans;
+  text-align: left;
+  padding-left: 0em;
+}
+
+
+ul#fuck {
+  list-style: inside;
+  list-style-type: circle;
+  margin-bottom: 2em;
+}
+
+li#fuckecon a {
+  text-align: left;
+  align-content: stretch;
+  max-width: inherit;
+}
