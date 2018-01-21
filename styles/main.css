@@ -11,6 +11,7 @@ html#home {
 
 header#homeheader {
   font-family: Noto+Sans;
+  text-align: center;
   font-size: 18px;
   margin-left: 0.8em;
   margin-bottom: 0.1em;
@@ -153,7 +154,7 @@ ul#fuck {
 }
 
 li#fuckecon a {
-  text-align: left;
+  text-align: center;
   align-content: stretch;
   max-width: inherit;
 }
