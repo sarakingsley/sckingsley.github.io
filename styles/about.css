@@ -16,7 +16,7 @@ html#about {
 
 nav#aboutmenu {
   font-family: inherit;
-  text-align: center;
+  text-align: left;
   padding: 0;  
   margin: auto;
   margin-bottom: auto;
@@ -40,7 +40,7 @@ li#aboutnavli {
 li#aboutnavli a {
   display: table;
   color: white;
-  text-align: center;
+  text-align: left;
   padding: 14px 16px;
   text-decoration: none;
 }
