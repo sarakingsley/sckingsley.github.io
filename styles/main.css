@@ -11,7 +11,6 @@ html#home {
 
 header#homeheader {
   font-family: Noto+Sans;
-  text-align: center;
   font-size: 18px;
   margin-left: 0.8em;
   margin-bottom: 0.1em;
@@ -80,7 +79,6 @@ html#about {
 
 nav#aboutmenu {
   font-family: inherit;
-  text-align: center;
   padding: 0;  
   margin: auto;
   margin-bottom: auto;
@@ -89,7 +87,6 @@ nav#aboutmenu {
 
 ul#aboutnavul {
   list-style-type: none;
-  text-align: center;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -105,7 +102,6 @@ li#aboutnavli {
 li#aboutnavli a {
   display: table;
   color: white;
-  text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
