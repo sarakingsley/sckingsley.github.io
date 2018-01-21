@@ -88,6 +88,7 @@ nav#aboutmenu {
 
 ul#aboutnavul {
   list-style-type: none;
+  text-align: center;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -97,7 +98,7 @@ ul#aboutnavul {
 }
 
 li#aboutnavli {
-  float: left;
+  float: center;
 }
 
 li#aboutnavli a {
